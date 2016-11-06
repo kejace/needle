@@ -1,3 +1,5 @@
+{-# LANGUAGE FlexibleContexts #-}
+
 {-|
 Module      : Control.Arrow.Needle.Parse
 Description : Parsing needle diagrams
