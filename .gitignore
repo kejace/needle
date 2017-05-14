@@ -1,11 +1,13 @@
 dist
 cabal-dev
 *.o
+*.DS_STORE
 *.hi
 *.chi
 *.chs.h
 .virtualenv
 .hsenv
 .cabal-sandbox/
+.stack-work/
 cabal.sandbox.config
 cabal.config
